@@ -1,4 +1,4 @@
-# Network Security
+# Information Systems Security Projects
 
 This repository contains various scripts and tools developed as part of my InfoSec coursework. The projects here cover a range of cybersecurity topics, including network monitoring, intrusion detection, packet analysis, and attack simulations.
 
